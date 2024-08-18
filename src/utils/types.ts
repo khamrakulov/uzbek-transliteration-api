@@ -1,0 +1,1 @@
+type TranslitMap = { [key: string]: string };

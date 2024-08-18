@@ -55,13 +55,13 @@ This project provides an API for transliterating Uzbek text between Latin and Cy
 2. **Install dependencies:**
 
    ```bash
-   npm install
+   yarn add
    ```
 
 3. **Start the development server:**
 
    ```bash
-   npm run start:dev
+   yarn start:dev
    ```
 
    The server will be running at `http://localhost:3000`.
